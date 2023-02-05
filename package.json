@@ -1,0 +1,29 @@
+{
+  "name": "top_tdd",
+  "version": "1.0.0",
+  "description": "The Odin Project TDD practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch-test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cel8/top_tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cel8/top_tdd/issues"
+  },
+  "homepage": "https://github.com/cel8/top_tdd#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-import-resolver-webpack": "^0.13.2",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.1"
+  }
+}
